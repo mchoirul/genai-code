@@ -1,0 +1,60 @@
+custid,custname,dateofbirth,city_address,nationality,memberstatus,education
+1,Superman,1980-01-01,Jakarta,Indonesia,YES,Bachelor
+2,Batman,1960-03-03,Bandung,Indonesia,NO,High School
+3,Wonder Woman,1970-05-05,Semarang,Indonesia,YES,Master
+4,The Flash,1980-07-07,Yogyakarta,Indonesia,NO,Doctorate
+5,Green Lantern,1990-09-09,Surabaya,Indonesia,YES,Bachelor
+6,Aquaman,2000-11-11,Medan,Indonesia,NO,High School
+7,Spider-Man,1980-01-01,Denpasar,Indonesia,YES,Master
+8,Iron Man,1960-03-03,Pontianak,Indonesia,NO,Doctorate
+9,Captain America,1970-05-05,Mataram,Indonesia,YES,Bachelor
+10,Thor,1980-07-07,Jayapura,Indonesia,NO,High School
+11,Hulk,1990-09-09,Padang,Indonesia,YES,Master
+12,Wolverine,2000-11-11,Ambon,Indonesia,NO,Doctorate
+13,Cyclops,1980-01-01,Pekanbaru,Indonesia,YES,Bachelor
+14,Beasty Boy,1960-03-03,Kupang,Indonesia,NO,High School
+15,Raven,1970-05-05,Palembang,Indonesia,YES,Master
+16,Nightwing,1980-07-07,Banjarmasin,Indonesia,NO,Doctorate
+17,Starfire,1990-09-09,Manado,Indonesia,YES,Bachelor
+18,Cyborg,2000-11-11,Makassar,Indonesia,NO,High School
+19,Robin,1980-01-01,Bandar Lampung,Indonesia,YES,Master
+20,Beast,1960-03-03,Jambi,Indonesia,NO,Doctorate
+21,Iceman,1970-05-05,Pontianak,Indonesia,YES,Bachelor
+22,Angel,1980-07-07,Pekanbaru,Indonesia,NO,High School
+23,Colossus,1990-09-09,Kupang,Indonesia,YES,Master
+24,Storm,2000-11-11,Palembang,Indonesia,NO,Doctorate
+25,Gambit,1980-01-01,Banjarmasin,Indonesia,YES,Bachelor
+26,Jubilee,1960-03-03,Manado,Indonesia,NO,High School
+27,Rogue,1970-05-05,Makassar,Indonesia,YES,Master
+28,Pyro,1980-07-07,Bandar Lampung,Indonesia,NO,Doctorate
+29,Quicksilver,1990-09-09,Jambi,Indonesia,YES,Bachelor
+30,Scarlet Witch,2000-11-11,Pontianak,Indonesia,NO,High School
+31,Mickey Mouse,1950-01-01,Jakarta,Indonesia,YES,Bachelor
+32,Donald Duck,1960-03-03,Bandung,Indonesia,NO,High School
+33,Goofy,1970-05-05,Semarang,Indonesia,YES,Master
+34,Minnie Mouse,1980-07-07,Yogyakarta,Indonesia,NO,Doctorate
+35,Pluto,1990-09-09,Surabaya,Indonesia,YES,Bachelor
+36,Daisy Duck,2000-11-11,Medan,Indonesia,NO,High School
+37,Chip,1980-01-01,Denpasar,Indonesia,YES,Master
+38,Dale,1960-03-03,Pontianak,Indonesia,NO,Doctorate
+39,Clarabelle Cow,1970-05-05,Mataram,Indonesia,YES,Bachelor
+40,Horace Horsecollar,1980-07-07,Jayapura,Indonesia,NO,High School
+42,Scrooge McDuck,2000-11-11,Ambon,Indonesia,NO,Doctorate
+43,Launchpad McQuack,1980-01-01,Pekanbaru,Indonesia,YES,Bachelor
+44,Gyro Gearloose,1960-03-03,Kupang,Indonesia,NO,High School
+45,Ludwig Von Drake,1970-05-05,Palembang,Indonesia,YES,Master
+46,José Carioca,1980-07-07,Banjarmasin,Indonesia,NO,Doctorate
+47,Panchito Pistoles,1990-09-09,Manado,Indonesia,YES,Bachelor
+48,Donald Duck's nephews,2000-11-11,Makassar,Indonesia,NO,High School
+49,Goofy's son,1980-01-01,Bandar Lampung,Indonesia,YES,Master
+50,Max Goof,1960-03-03,Jambi,Indonesia,NO,Doctorate
+51,Petey,1970-05-05,Pontianak,Indonesia,YES,Bachelor
+52,Peg Pete,1980-07-07,Pekanbaru,Indonesia,NO,High School
+53,P.J.,1990-09-09,Kupang,Indonesia,YES,Master
+54,Goofy Junior,2000-11-11,Palembang,Indonesia,NO,Doctorate
+55,Rover Scout,1980-01-01,Banjarmasin,Indonesia,YES,Bachelor
+56,Chip and Dale's Rescue Rangers,1960-03-03,Manado,Indonesia,NO,High School
+57,Gadget Hackwrench,1970-05-05,Makassar,Indonesia,YES,Master
+58,Zipper,1980-07-07,Bandar Lampung,Indonesia,NO,Doctorate
+59,Monterey Jack,1990-09-09,Jambi,Indonesia,YES,Bachelor
+60,Brer Rabbit,2000-11-11,Pontianak,Indonesia,NO,High School
