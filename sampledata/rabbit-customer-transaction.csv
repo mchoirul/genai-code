@@ -1,0 +1,281 @@
+transactionid,custid,transactsitelocation,transactiondate,servicecategory,transactionamount,servingconsultant
+TX1001,1,Jakarta,2023-03-08,General Checkup,1500000,Boby
+TX1002,15,Surabaya,2023-03-09,Skin Care,2000000,Ahmad
+TX1003,10,Medan,2023-03-10,Eye Care,1000000,Rany
+TX1004,12,Bandung,2023-03-11,Consultation,500000,Ema
+TX1005,18,Semarang,2023-03-12,Covid Test,3000000,Boby
+TX1006,3,Makassar,2023-03-13,General Checkup,2500000,Ahmad
+TX1007,11,Jakarta,2023-03-14,Skin Care,1500000,Rany
+TX1008,4,Surabaya,2023-03-15,Eye Care,1000000,Ema
+TX1009,16,Medan,2023-03-16,Consultation,500000,Boby
+TX1010,2,Bandung,2023-03-17,Covid Test,3000000,Ahmad
+TX1011,14,Semarang,2023-03-18,General Checkup,2500000,Rany
+TX1012,9,Makassar,2023-03-19,Skin Care,1500000,Ema
+TX1013,13,Jakarta,2023-03-20,Eye Care,1000000,Boby
+TX1014,5,Surabaya,2023-03-21,Consultation,500000,Ahmad
+TX1015,17,Medan,2023-03-22,Covid Test,3000000,Rany
+TX1016,6,Bandung,2023-03-23,General Checkup,2500000,Ema
+TX1017,8,Semarang,2023-03-24,Skin Care,1500000,Boby
+TX1018,7,Makassar,2023-03-25,Eye Care,1000000,Ahmad
+TX1019,20,Jakarta,2023-03-26,Consultation,500000,Rany
+TX1020,19,Surabaya,2023-03-27,Covid Test,3000000,Ema
+TX1021,1,Jakarta,2023-03-28,General Checkup,2500000,Boby
+TX1022,15,Surabaya,2023-03-29,Skin Care,1500000,Ahmad
+TX1023,10,Medan,2023-03-30,Eye Care,1000000,Rany
+TX1024,12,Bandung,2023-03-31,Consultation,500000,Ema
+TX1025,18,Semarang,2023-04-01,Covid Test,3000000,Boby
+TX1026,3,Makassar,2023-04-02,General Checkup,2500000,Ahmad
+TX1027,11,Jakarta,2023-04-03,Skin Care,1500000,Rany
+TX1028,4,Surabaya,2023-04-04,Eye Care,1000000,Ema
+TX1029,16,Medan,2023-04-05,Consultation,500000,Boby
+TX1030,2,Bandung,2023-04-06,Covid Test,3000000,Ahmad
+TX3001,26,Jakarta,2022-01-01,General Checkup,1500000,Boby
+TX3002,31,Surabaya,2022-01-02,Skin Care,2000000,Ahmad
+TX3003,35,Medan,2022-01-03,Eye Care,1000000,Rany
+TX3004,29,Bandung,2022-01-04,Consultation,500000,Ema
+TX3005,23,Semarang,2022-01-05,Covid Test,3000000,Boby
+TX3006,38,Makassar,2022-01-06,General Checkup,2500000,Ahmad
+TX3007,33,Jakarta,2022-01-07,Skin Care,1200000,Rany
+TX3008,27,Surabaya,2022-01-08,Eye Care,800000,Ema
+TX3009,40,Medan,2022-01-09,Consultation,1800000,Boby
+TX3010,22,Bandung,2022-01-10,Covid Test,2000000,Ahmad
+TX3011,37,Semarang,2022-01-11,General Checkup,1600000,Rany
+TX3012,30,Makassar,2022-01-12,Skin Care,1300000,Ema
+TX3013,28,Jakarta,2022-01-13,Eye Care,900000,Boby
+TX3014,39,Surabaya,2022-01-14,Consultation,1900000,Ahmad
+TX3015,21,Medan,2022-01-15,Covid Test,2100000,Rany
+TX3016,36,Bandung,2022-01-16,General Checkup,1700000,Ema
+TX3017,34,Semarang,2022-01-17,Skin Care,1400000,Boby
+TX3018,25,Makassar,2022-01-18,Eye Care,1000000,Ahmad
+TX3019,32,Jakarta,2022-01-19,Consultation,2000000,Rany
+TX3020,24,Surabaya,2022-01-20,Covid Test,2200000,Ema
+TX3021,29,Medan,2022-01-21,General Checkup,2300000,Boby
+TX3022,31,Bandung,2022-01-22,Skin Care,1100000,Ahmad
+TX3023,35,Semarang,2022-01-23,Eye Care,700000,Rany
+TX3024,27,Makassar,2022-01-24,Consultation,1700000,Ema
+TX3025,40,Jakarta,2022-01-25,Covid Test,2400000,Boby
+TX3026,23,Surabaya,2022-01-26,General Checkup,2500000,Ahmad
+TX3027,38,Medan,2022-01-27,Skin Care,1200000,Rany
+TX3028,33,Bandung,2022-01-28,Eye Care,800000,Ema
+TX3029,26,Semarang,2022-01-29,Consultation,1800000,Boby
+TX3030,37,Makassar,2022-01-30,Covid Test,2600000,Ahmad
+TX3031,30,Jakarta,2022-02-01,General Checkup,1300000,Rany
+TX3032,39,Surabaya,2022-02-02,Skin Care,1400000,Ema
+TX3033,22,Medan,2022-02-03,Eye Care,1000000,Boby
+TX3034,36,Bandung,2022-02-04,Consultation,2000000,Ahmad
+TX3035,28,Semarang,2022-02-05,Covid Test,2800000,Rany
+TX3036,34,Makassar,2022-02-06,General Checkup,1500000,Ema
+TX3037,25,Jakarta,2022-02-07,Skin Care,1100000,Boby
+TX3038,32,Surabaya,2022-02-08,Eye Care,700000,Ahmad
+TX3039,24,Medan,2022-02-09,Consultation,1700000,Rany
+TX3040,21,Bandung,2022-02-10,Covid Test,2900000,Ema
+TX3041,27,Semarang,2022-02-11,General Checkup,1600000,Boby
+TX3042,40,Makassar,2022-02-12,Skin Care,1200000,Ahmad
+TX3043,35,Jakarta,2022-02-13,Eye Care,800000,Rany
+TX3044,29,Surabaya,2022-02-14,Consultation,1800000,Ema
+TX3045,31,Medan,2022-02-15,Covid Test,3000000,Boby
+TX3046,33,Bandung,2022-02-16,General Checkup,1700000,Ahmad
+TX3047,38,Semarang,2022-02-17,Skin Care,1300000,Rany
+TX3048,26,Makassar,2022-02-18,Eye Care,900000,Ema
+TX3049,37,Jakarta,2022-02-19,Consultation,1900000,Boby
+TX3050,30,Surabaya,2022-02-20,Covid Test,2100000,Ahmad
+TX3051,23,Medan,2022-02-21,General Checkup,1400000,Rany
+TX3052,22,Bandung,2022-02-22,Skin Care,1000000,Ema
+TX3053,39,Semarang,2022-02-23,Eye Care,600000,Boby
+TX3054,28,Makassar,2022-02-24,Consultation,1600000,Ahmad
+TX3055,34,Jakarta,2022-02-25,Covid Test,2200000,Rany
+TX3056,25,Surabaya,2022-02-26,General Checkup,1500000,Ema
+TX3057,21,Medan,2022-02-27,Skin Care,1100000,Boby
+TX3058,36,Bandung,2022-02-28,Eye Care,700000,Ahmad
+TX3059,32,Semarang,2022-03-01,Consultation,1700000,Rany
+TX3060,24,Makassar,2022-03-02,Covid Test,2300000,Ema
+TX3061,40,Jakarta,2022-03-03,General Checkup,1600000,Boby
+TX3062,27,Surabaya,2022-03-04,Skin Care,1200000,Ahmad
+TX3063,33,Medan,2022-03-05,Eye Care,800000,Rany
+TX3064,26,Bandung,2022-03-06,Consultation,1800000,Ema
+TX3065,37,Semarang,2022-03-07,Covid Test,2400000,Boby
+TX3066,30,Makassar,2022-03-08,General Checkup,1700000,Ahmad
+TX3067,39,Jakarta,2022-03-09,Skin Care,1300000,Rany
+TX3068,22,Surabaya,2022-03-10,Eye Care,900000,Ema
+TX3069,38,Medan,2022-03-11,Consultation,1900000,Boby
+TX3070,35,Bandung,2022-03-12,Covid Test,2500000,Ahmad
+TX3071,29,Semarang,2022-03-13,General Checkup,1400000,Rany
+TX3072,31,Makassar,2022-03-14,Skin Care,1000000,Ema
+TX3073,34,Jakarta,2022-03-15,Eye Care,600000,Boby
+TX3074,23,Surabaya,2022-03-16,Consultation,1600000,Ahmad
+TX3075,32,Medan,2022-03-17,Covid Test,2600000,Rany
+TX3076,28,Bandung,2022-03-18,General Checkup,1500000,Ema
+TX3077,36,Semarang,2022-03-19,Skin Care,1100000,Boby
+TX3078,25,Makassar,2022-03-20,Eye Care,700000,Ahmad
+TX3079,21,Jakarta,2022-03-21,Consultation,1700000,Rany
+TX3080,24,Surabaya,2022-03-22,Covid Test,2700000,Ema
+TX3081,40,Medan,2022-03-23,General Checkup,1600000,Boby
+TX3082,27,Bandung,2022-03-24,Skin Care,1200000,Ahmad
+TX3083,33,Semarang,2022-03-25,Eye Care,800000,Rany
+TX3084,39,Makassar,2022-03-26,Consultation,1800000,Ema
+TX3085,38,Jakarta,2022-03-27,Covid Test,2800000,Boby
+TX3086,37,Surabaya,2022-03-28,General Checkup,1700000,Ahmad
+TX3087,30,Medan,2022-03-29,Skin Care,1300000,Rany
+TX3088,35,Bandung,2022-03-30,Eye Care,900000,Ema
+TX3089,29,Semarang,2022-03-31,Consultation,1900000,Boby
+TX3090,31,Makassar,2022-04-01,Covid Test,2900000,Ahmad
+TX3091,34,Jakarta,2022-04-02,General Checkup,1400000,Rany
+TX3092,23,Surabaya,2022-04-03,Skin Care,1000000,Ema
+TX3093,32,Medan,2022-04-04,Eye Care,600000,Boby
+TX3094,28,Bandung,2022-04-05,Consultation,1600000,Ahmad
+TX3095,36,Semarang,2022-04-06,Covid Test,3000000,Rany
+TX3096,26,Makassar,2022-04-07,General Checkup,1500000,Ema
+TX3097,40,Jakarta,2022-04-08,Skin Care,1100000,Boby
+TX3098,22,Surabaya,2022-04-09,Eye Care,700000,Ahmad
+TX3099,39,Medan,2022-04-10,Consultation,1700000,Rany
+TX3100,38,Bandung,2022-04-11,Covid Test,2800000,Ema
+TX5001,44,Jakarta,2023-03-08,General Checkup,1200000,Boby
+TX5002,42,Surabaya,2023-03-09,Skin Care,2500000,Ahmad
+TX5003,51,Medan,2023-03-10,Eye Care,1000000,Rany
+TX5004,48,Bandung,2023-03-11,Consultation,1500000,Ema
+TX5005,55,Semarang,2023-03-12,Covid Test,3000000,Boby
+TX5006,49,Makassar,2023-03-13,General Checkup,2000000,Ahmad
+TX5007,53,Jakarta,2023-03-14,Skin Care,2500000,Rany
+TX5008,46,Surabaya,2023-03-15,Eye Care,1000000,Ema
+TX5009,57,Medan,2023-03-16,Consultation,1500000,Boby
+TX5010,47,Bandung,2023-03-17,Covid Test,3000000,Ahmad
+TX5011,59,Semarang,2023-03-18,General Checkup,2000000,Rany
+TX5012,52,Makassar,2023-03-19,Skin Care,2500000,Ema
+TX5013,45,Jakarta,2023-03-20,Eye Care,1000000,Boby
+TX5014,50,Surabaya,2023-03-21,Consultation,1500000,Ahmad
+TX5015,56,Medan,2023-03-22,Covid Test,3000000,Rany
+TX5016,43,Bandung,2023-03-23,General Checkup,2000000,Ema
+TX5017,60,Semarang,2023-03-24,Skin Care,2500000,Boby
+TX5018,54,Makassar,2023-03-25,Eye Care,1000000,Ahmad
+TX5019,41,Jakarta,2023-03-26,Consultation,1500000,Rany
+TX5020,42,Surabaya,2023-03-27,Covid Test,3000000,Ema
+TX5021,51,Medan,2023-03-28,General Checkup,2000000,Boby
+TX5022,48,Bandung,2023-03-29,Skin Care,2500000,Ahmad
+TX5023,55,Semarang,2023-03-30,Eye Care,1000000,Rany
+TX5024,49,Makassar,2023-03-31,Consultation,1500000,Ema
+TX5025,53,Jakarta,2023-04-01,Covid Test,3000000,Boby
+TX5026,46,Surabaya,2023-04-02,General Checkup,2000000,Ahmad
+TX5027,57,Medan,2023-04-03,Skin Care,2500000,Rany
+TX5028,47,Bandung,2023-04-04,Eye Care,1000000,Ema
+TX5029,59,Semarang,2023-04-05,Consultation,1500000,Boby
+TX5030,52,Makassar,2023-04-06,Covid Test,3000000,Ahmad
+TX5031,45,Jakarta,2023-04-07,General Checkup,2000000,Rany
+TX5032,50,Surabaya,2023-04-08,Skin Care,2500000,Ema
+TX5033,56,Medan,2023-04-09,Eye Care,1000000,Boby
+TX5034,43,Bandung,2023-04-10,Consultation,1500000,Ahmad
+TX5035,60,Semarang,2023-04-11,Covid Test,3000000,Rany
+TX5036,54,Makassar,2023-04-12,General Checkup,2000000,Ema
+TX5037,41,Jakarta,2023-04-13,Skin Care,2500000,Boby
+TX5038,42,Surabaya,2023-04-14,Eye Care,1000000,Ahmad
+TX5039,51,Medan,2023-04-15,Consultation,1500000,Rany
+TX5040,48,Bandung,2023-04-16,Covid Test,3000000,Ema
+TX5041,55,Semarang,2023-04-17,General Checkup,2000000,Boby
+TX5042,49,Makassar,2023-04-18,Skin Care,2500000,Ahmad
+TX5043,53,Jakarta,2023-04-19,Eye Care,1000000,Rany
+TX5044,46,Surabaya,2023-04-20,Consultation,1500000,Ema
+TX5045,57,Medan,2023-04-21,Covid Test,3000000,Boby
+TX5046,47,Bandung,2023-04-22,General Checkup,2000000,Ahmad
+TX5047,59,Semarang,2023-04-23,Skin Care,2500000,Rany
+TX5048,52,Makassar,2023-04-24,Eye Care,1000000,Ema
+TX5049,45,Jakarta,2023-04-25,Consultation,1500000,Boby
+TX5050,50,Surabaya,2023-04-26,Covid Test,3000000,Ahmad
+TX5051,56,Medan,2023-04-27,General Checkup,2000000,Rany
+TX5052,43,Bandung,2023-04-28,Skin Care,2500000,Ema
+TX5053,60,Semarang,2023-04-29,Eye Care,1000000,Boby
+TX5054,54,Makassar,2023-04-30,Consultation,1500000,Ahmad
+TX5055,41,Jakarta,2023-05-01,Covid Test,3000000,Rany
+TX5056,42,Surabaya,2023-05-02,General Checkup,2000000,Ema
+TX5057,51,Medan,2023-05-03,Skin Care,2500000,Boby
+TX5058,48,Bandung,2023-05-04,Eye Care,1000000,Ahmad
+TX5059,55,Semarang,2023-05-05,Consultation,1500000,Rany
+TX5060,49,Makassar,2023-05-06,Covid Test,3000000,Ema
+TX5061,53,Jakarta,2023-05-07,General Checkup,2000000,Boby
+TX5062,46,Surabaya,2023-05-08,Skin Care,2500000,Ahmad
+TX5063,57,Medan,2023-05-09,Eye Care,1000000,Rany
+TX5064,47,Bandung,2023-05-10,Consultation,1500000,Ema
+TX5065,59,Semarang,2023-05-11,Covid Test,3000000,Boby
+TX5066,52,Makassar,2023-05-12,General Checkup,2000000,Ahmad
+TX5067,45,Jakarta,2023-05-13,Skin Care,2500000,Rany
+TX5068,50,Surabaya,2023-05-14,Eye Care,1000000,Ema
+TX5069,56,Medan,2023-05-15,Consultation,1500000,Boby
+TX5070,43,Bandung,2023-05-16,Covid Test,3000000,Ahmad
+TX5071,60,Semarang,2023-05-17,General Checkup,2000000,Rany
+TX5072,54,Makassar,2023-05-18,Skin Care,2500000,Ema
+TX5073,41,Jakarta,2023-05-19,Eye Care,1000000,Boby
+TX5074,42,Surabaya,2023-05-20,Consultation,1500000,Ahmad
+TX5075,51,Medan,2023-05-21,Covid Test,3000000,Rany
+TX5076,48,Bandung,2023-05-22,General Checkup,2000000,Ema
+TX5077,55,Semarang,2023-05-23,Skin Care,2500000,Boby
+TX5078,49,Makassar,2023-05-24,Eye Care,1000000,Ahmad
+TX5079,53,Jakarta,2023-05-25,Consultation,1500000,Rany
+TX5080,46,Surabaya,2023-05-26,Covid Test,3000000,Ema
+TX5081,57,Medan,2023-05-27,General Checkup,2000000,Boby
+TX5082,47,Bandung,2023-05-28,Skin Care,2500000,Ahmad
+TX5083,59,Semarang,2023-05-29,Eye Care,1000000,Rany
+TX5084,52,Makassar,2023-05-30,Consultation,1500000,Ema
+TX5085,45,Jakarta,2023-05-31,Covid Test,3000000,Boby
+TX5086,50,Surabaya,2023-06-01,General Checkup,2000000,Ahmad
+TX5087,56,Medan,2023-06-02,Skin Care,2500000,Rany
+TX5088,43,Bandung,2023-06-03,Eye Care,1000000,Ema
+TX5089,60,Semarang,2023-06-04,Consultation,1500000,Boby
+TX5090,54,Makassar,2023-06-05,Covid Test,3000000,Ahmad
+TX5091,41,Jakarta,2023-06-06,General Checkup,2000000,Rany
+TX5092,42,Surabaya,2023-06-07,Skin Care,2500000,Ema
+TX5093,51,Medan,2023-06-08,Eye Care,1000000,Boby
+TX5094,48,Bandung,2023-06-09,Consultation,1500000,Ahmad
+TX5095,55,Semarang,2023-06-10,Covid Test,3000000,Rany
+TX5096,49,Makassar,2023-06-11,General Checkup,2000000,Ema
+TX5097,53,Jakarta,2023-06-12,Skin Care,2500000,Boby
+TX5098,46,Surabaya,2023-06-13,Eye Care,1000000,Ahmad
+TX5099,57,Medan,2023-06-14,Consultation,1500000,Rany
+TX5100,47,Bandung,2023-06-15,Covid Test,3000000,Ema
+TX5101,59,Semarang,2023-06-16,General Checkup,2000000,Boby
+TX5102,52,Makassar,2023-06-17,Skin Care,2500000,Ahmad
+TX5103,45,Jakarta,2023-06-18,Eye Care,1000000,Rany
+TX5104,50,Surabaya,2023-06-19,Consultation,1500000,Ema
+TX5105,56,Medan,2023-06-20,Covid Test,3000000,Boby
+TX5106,43,Bandung,2023-06-21,General Checkup,2000000,Ahmad
+TX5107,60,Semarang,2023-06-22,Skin Care,2500000,Rany
+TX5108,54,Makassar,2023-06-23,Eye Care,1000000,Ema
+TX5109,41,Jakarta,2023-06-24,Consultation,1500000,Boby
+TX5110,42,Surabaya,2023-06-25,Covid Test,3000000,Ahmad
+TX5111,51,Medan,2023-06-26,General Checkup,2000000,Rany
+TX5112,48,Bandung,2023-06-27,Skin Care,2500000,Ema
+TX5113,55,Semarang,2023-06-28,Eye Care,1000000,Boby
+TX5114,49,Makassar,2023-06-29,Consultation,1500000,Ahmad
+TX5115,53,Jakarta,2023-06-30,Covid Test,3000000,Rany
+TX5116,46,Surabaya,2023-07-01,General Checkup,2000000,Ema
+TX5117,57,Medan,2023-07-02,Skin Care,2500000,Boby
+TX5118,47,Bandung,2023-07-03,Eye Care,1000000,Ahmad
+TX5119,59,Semarang,2023-07-04,Consultation,1500000,Rany
+TX5120,52,Makassar,2023-07-05,Covid Test,3000000,Ema
+TX5121,45,Jakarta,2023-07-06,General Checkup,2000000,Boby
+TX5122,50,Surabaya,2023-07-07,Skin Care,2500000,Ahmad
+TX5123,56,Medan,2023-07-08,Eye Care,1000000,Rany
+TX5124,43,Bandung,2023-07-09,Consultation,1500000,Ema
+TX5125,60,Semarang,2023-07-10,Covid Test,3000000,Boby
+TX5126,54,Makassar,2023-07-11,General Checkup,2000000,Ahmad
+TX5127,41,Jakarta,2023-07-12,Skin Care,2500000,Rany
+TX5128,42,Surabaya,2023-07-13,Eye Care,1000000,Ema
+TX5129,51,Medan,2023-07-14,Consultation,1500000,Boby
+TX5130,48,Bandung,2023-07-15,Covid Test,3000000,Ahmad
+TX5131,55,Semarang,2023-07-16,General Checkup,2000000,Rany
+TX5132,49,Makassar,2023-07-17,Skin Care,2500000,Ema
+TX5133,53,Jakarta,2023-07-18,Eye Care,1000000,Boby
+TX5134,46,Surabaya,2023-07-19,Consultation,1500000,Ahmad
+TX5135,57,Medan,2023-07-20,Covid Test,3000000,Rany
+TX5136,47,Bandung,2023-07-21,General Checkup,2000000,Ema
+TX5137,59,Semarang,2023-07-22,Skin Care,2500000,Boby
+TX5138,52,Makassar,2023-07-23,Eye Care,1000000,Ahmad
+TX5139,45,Jakarta,2023-07-24,Consultation,1500000,Rany
+TX5140,50,Surabaya,2023-07-25,Covid Test,3000000,Ema
+TX5141,56,Medan,2023-07-26,General Checkup,2000000,Boby
+TX5142,43,Bandung,2023-07-27,Skin Care,2500000,Ahmad
+TX5143,60,Semarang,2023-07-28,Eye Care,1000000,Rany
+TX5144,54,Makassar,2023-07-29,Consultation,1500000,Ema
+TX5145,41,Jakarta,2023-07-30,Covid Test,3000000,Boby
+TX5146,42,Surabaya,2023-07-31,General Checkup,2000000,Ahmad
+TX5147,51,Medan,2023-08-01,Skin Care,2500000,Rany
+TX5148,48,Bandung,2023-08-02,Eye Care,1000000,Ema
+TX5149,55,Semarang,2023-08-03,Consultation,1500000,Boby
+TX5150,49,Makassar,2023-08-04,Covid Test,3000000,Ahmad
